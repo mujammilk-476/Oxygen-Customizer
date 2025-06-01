@@ -1,3 +1,12 @@
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - 'beta'
+    paths:
+      - '.github/edit2MakeNewBeta'
+
+
 name: Make Beta Release
 
 on:
