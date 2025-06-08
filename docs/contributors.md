@@ -95,6 +95,15 @@ Thanks to those contributors, this project exists:
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/mujammilk-476">
+                    <img src="https://avatars.githubusercontent.com/u/45829238?v=4" width="32;" alt="mujammilk-476"/>
+                    <br />
+                    <sub><b>Mujammil Khan</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
                 <a href="https://github.com/rustammendel">
                     <img src="https://avatars.githubusercontent.com/u/30227161?v=4" width="32;" alt="rustammendel"/>
                     <br />
